@@ -1,6 +1,8 @@
 # 👨🏻‍💻 About Me:
-🔭I'm currently working on an iOS Mobile App for an organization.<br>🤝I'm looking to collaborate on AI/iOS team projects.<br>📖I'm currently learning AWS tools.<br>💡A Fun fact about me is I started coding because I liked the colorful words in IDE's
-
+🔭I'm currently working on an iOS Mobile App for an organization.<br>🤝I'm looking to collaborate on AI/iOS team projects.<br>📖I'm currently learning AWS tools.
+<!---
+<br>💡A Fun fact about me is I started coding because I liked the colorful words in IDE's
+--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/andrew-beshay1) 
